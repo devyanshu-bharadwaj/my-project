@@ -1,0 +1,11 @@
+[[_TOC_]]
+
+# Integrating an Application with Nigel Local Service (NLS)
+
+This document describes how to integrate your application with Nigel Local Service (NLS) so it can provide AI-assisted functionality (chat, tools, etc.) through the NLS host.
+
+---
+
+# 1. Overview
+
+To integrate with NLS, your application must:
