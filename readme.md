@@ -1,6 +1,6 @@
 [[_TOC_]]
 
-# Nigel Local Service (NLS) document
+# Integrating an Application with Nigel Local Service (NLS)
 
 This document describes how to integrate your application with Nigel Local Service (NLS) so it can provide AI-assisted functionality (chat, tools, etc.) through the NLS host.
 
