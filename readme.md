@@ -6,6 +6,6 @@ This document describes how to integrate your application with Nigel Local Servi
 
 ---
 
-# 1. Overview1
+# 1. Overview
 
 To integrate with NLS, your application must:
